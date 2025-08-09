@@ -31,7 +31,7 @@ This project aims to detect fraudulent credit card transactions using supervised
 | File | Description |
 |------|-------------|
 | `credit_card_fraud_detection_using_scikit-learn_and_snap_ml.html` | Final project notebook in HTML |
-| `.ipynb` file (optional) | Jupyter notebook (if included) |
+| `.ipynb` file (optional) | Jupyter notebook  |
 | `README.md` | Project overview |
 
 ---
@@ -47,7 +47,11 @@ This project aims to detect fraudulent credit card transactions using supervised
 
 ## 📸 Screenshots
 
-_Include here if you have graphs/ROC curve screenshots._
+![Cost Prediction Plot](images/1.png)
+![Cost Prediction Plot](images/2.png)
+![Cost Prediction Plot](images/3.png)
+![Cost Prediction Plot](images/4.png)
+
 
 ---
 
